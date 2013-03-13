@@ -1,5 +1,15 @@
 {
   "name": "voxel-tower",
+  "description": "an example/template node module for voxel.js. makes a tower of voxels.",
+  "repository": {
+    "type": "git",
+    "git": "git://github.com/maxogden/voxel-tower.git"
+  },
+  "author": {
+    "name": "Max Ogden",
+    "email": "max@maxogden.com",
+    "url": "http://maxogden.com"
+  },
   "version": "0.0.1",
   "devDependencies": {
     "painterly-textures": "0.0.3",
